@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @karitie samuel
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on creating new projects
+# Hi, I’m Samuel “Karitie” 👋
 
-<!---
-karitie/karitie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+I am a 4th-year Software Engineering student passionate about backend development. I enjoy building systems to solve real-world problems, especially in health and data-intensive domains.
+
+## 🛠 Skills & Technologies  
+- **Frontend / Styling:** HTML, CSS  
+- **Backend / Database:** Python, Django, MySQL  
+- **Tools:** VS Code, Git, GitHub
+
+## 📂 Projects  
+- **Transport Agency Website (HTML & CSS):** A static multi-page site with pages like Home, Booking, About, Contact.  
+- **Hospital Management System (Django):** In progress — patient registration, data systems, reports.
+
+*(More projects coming soon…)*  
+
+## 📫 Let’s Connect  
+- GitHub: [github.com/karitie](https://github.com/karitie)  
+- Email: your_email@example.com  
