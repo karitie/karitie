@@ -15,5 +15,5 @@ I am a 4th-year Software Engineering student passionate about backend developmen
 *(More projects coming soon…)*  
 
 ## 📫 Let’s Connect  
-- GitHub: [github.com/karitie](https://github.com/karitie)  
-- Email: your_email@example.com  
+- GitHub: (https://github.com/karitie)  
+- Email: karitiesamuel7@gmail.com
